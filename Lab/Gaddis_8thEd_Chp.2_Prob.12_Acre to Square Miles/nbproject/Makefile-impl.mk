@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Helloworld
+PROJECTNAME=Gaddis_8thEd_Chp.2_Prob.12_Acre to Square Miles
 
 # Active Configuration
 DEFAULTCONF=Debug
